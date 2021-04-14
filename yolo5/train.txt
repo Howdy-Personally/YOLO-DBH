@@ -2,5 +2,6 @@
 ./images/train/004.jpg
 ./images/train/005.jpg
 ./images/train/030.jpg
+./images/train/031.jpg
 ./images/train/032.jpg
 ./images/train/034.jpg
