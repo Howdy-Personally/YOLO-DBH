@@ -1,6 +1,0 @@
-./images/test/003.jpg
-./images/test/004.jpg
-./images/test/005.jpg
-./images/test/030.jpg
-./images/test/032.jpg
-./images/test/034.jpg
