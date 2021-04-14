@@ -1,0 +1,5 @@
+animal
+flower
+person
+monster
+face
