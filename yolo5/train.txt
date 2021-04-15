@@ -1,7 +1,0 @@
-./images/train/003.png
-./images/train/004.png
-./images/train/005.png
-./images/train/030.png
-./images/train/031.png
-./images/train/032.png
-./images/train/034.png
