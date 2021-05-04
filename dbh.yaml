@@ -15,10 +15,12 @@ val: ./val.txt  # 5000 images
 test: ./test.txt  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # number of classes
-nc: 5
+nc: 15
 
 # class names
-names: [ 'animal', 'flower', 'person', 'monster', 'face' ]
+names: [ 'mounting','flower','tools','manface',
+'hill','cloud','wave','flying','normface','devil',
+'suited','halfsuit','weapon','snake','hatface']
 
 # Print classes
 # with open('data/coco.yaml') as f:
