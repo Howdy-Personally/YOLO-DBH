@@ -1,11 +1,7 @@
 ./images/test/060.png
 ./images/test/061.png
-./images/test/062.png
 ./images/test/063.png
 ./images/test/064.png
-./images/test/066.png
 ./images/test/067.png
 ./images/test/074.png
 ./images/test/075.png
-./images/test/078.png
-./images/test/079.png
