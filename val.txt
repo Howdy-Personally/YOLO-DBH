@@ -1,11 +1,7 @@
 ./images/val/011.png
-./images/val/016.png
 ./images/val/038.png
-./images/val/069.png
 ./images/val/070.png
-./images/val/071.png
 ./images/val/072.png
 ./images/val/073.png
 ./images/val/076.png
-./images/val/090.png
 ./images/val/111.png
