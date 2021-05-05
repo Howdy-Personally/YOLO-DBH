@@ -1,0 +1,15 @@
+mounting
+flower
+tools
+manface
+hill
+cloud
+wave
+flying
+normface
+devil
+suited
+halfsuit
+weapon
+snake
+hatface
