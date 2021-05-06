@@ -16,4 +16,4 @@ eledic = {
         'hatface':5
     }
 
-eleemote =['Frisk','Peace','Grieve','Terrib']
+eleemote =['Frisk','Grieve','Peace','Terrib']
